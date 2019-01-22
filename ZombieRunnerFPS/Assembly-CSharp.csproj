@@ -53,15 +53,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\SA_Used\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
-     <Compile Include="Assets\SA_Used\Environment\Water\Water\Scripts\Displace.cs" />
-     <Compile Include="Assets\SA_Used\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
-     <Compile Include="Assets\SA_Used\Environment\Water\Water\Scripts\MeshContainer.cs" />
-     <Compile Include="Assets\SA_Used\Environment\Water\Water\Scripts\PlanarReflection.cs" />
-     <Compile Include="Assets\SA_Used\Environment\Water\Water\Scripts\SpecularLighting.cs" />
-     <Compile Include="Assets\SA_Used\Environment\Water\Water\Scripts\Water.cs" />
-     <Compile Include="Assets\SA_Used\Environment\Water\Water\Scripts\WaterBase.cs" />
-     <Compile Include="Assets\SA_Used\Environment\Water\Water\Scripts\WaterTile.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
@@ -70,13 +61,6 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
-     <None Include="Assets\SA_Used\Environment\Water (Basic)\DO_NOT_WORK_IN_VR.txt" />
-     <None Include="Assets\SA_Used\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
-     <None Include="Assets\SA_Used\Environment\Water\DO_NOT_WORK_IN_VR.txt" />
-     <None Include="Assets\SA_Used\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
-     <None Include="Assets\SA_Used\Environment\Water\Water\Shaders\FXWaterPro.shader" />
-     <None Include="Assets\SA_Used\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
-     <None Include="Assets\SA_Used\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/wcalv/Desktop/Unity/Repos/Unity2D/ZombieRunnerFPS/ZombieRunnerFPS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
