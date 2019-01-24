@@ -182,6 +182,9 @@
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
+ <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+ <HintPath>C:/Users/wcalv/Desktop/Unity/Repos/Unity2D/ZombieRunnerFPS/ZombieRunnerFPS/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/wcalv/Desktop/Unity/Repos/Unity2D/ZombieRunnerFPS/ZombieRunnerFPS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -190,6 +193,9 @@
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
  <HintPath>C:/Users/wcalv/Desktop/Unity/Repos/Unity2D/ZombieRunnerFPS/ZombieRunnerFPS/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.AddOns.Editor">
+ <HintPath>C:/Users/wcalv/Desktop/Unity/Repos/Unity2D/ZombieRunnerFPS/ZombieRunnerFPS/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>C:/Users/wcalv/Desktop/Unity/Repos/Unity2D/ZombieRunnerFPS/ZombieRunnerFPS/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
