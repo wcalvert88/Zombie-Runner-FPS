@@ -61,6 +61,10 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Zombie\Scripts\AIZombieControl.cs" />
+     <Compile Include="Assets\Zombie\Scripts\ThirdPersonZombie.cs" />
+     <None Include="Assets\Notes.txt" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
  <HintPath>C:/Users/wcalv/Desktop/Unity/Repos/Unity2D/ZombieRunnerFPS/ZombieRunnerFPS/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>

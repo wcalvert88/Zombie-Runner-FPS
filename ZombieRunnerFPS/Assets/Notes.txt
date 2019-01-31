@@ -1,0 +1,5 @@
+﻿// Mixed Lighting Bake
+Turn on Window->Rendering->Lighting Settings->Mixed Lighting Bake
+
+// Fog
+Turn on Window->Rendering->Lighting Settings->Fog
