@@ -53,19 +53,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
-     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
-     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\LevelReset.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\SASampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
+     <Compile Include="Assets\SASampleScenes\Menu\Scripts\PauseMenu.cs" />
+     <Compile Include="Assets\SASampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
+     <Compile Include="Assets\SASampleScenes\Scripts\CameraSwitch.cs" />
+     <Compile Include="Assets\SASampleScenes\Scripts\LevelReset.cs" />
+     <Compile Include="Assets\SASampleScenes\Scripts\ParticleSceneControls.cs" />
+     <Compile Include="Assets\SASampleScenes\Scripts\PlaceTargetWithMouse.cs" />
+     <Compile Include="Assets\SASampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\Scripts\Eyes.cs" />
+     <Compile Include="Assets\Scripts\Helicopter.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Zombie\Scripts\AIZombieControl.cs" />
      <Compile Include="Assets\Zombie\Scripts\ThirdPersonZombie.cs" />
      <None Include="Assets\Notes.txt" />
-     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
+     <None Include="Assets\SASampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
  <HintPath>C:/Users/wcalv/Desktop/Unity/Repos/Unity2D/ZombieRunnerFPS/ZombieRunnerFPS/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
  </Reference>
