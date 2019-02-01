@@ -66,6 +66,7 @@
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Zombie\Scripts\AIZombieControl.cs" />
      <Compile Include="Assets\Zombie\Scripts\ThirdPersonZombie.cs" />
+     <None Include="Assets\START PACK\Helicopter\Info.txt" />
      <None Include="Assets\Notes.txt" />
      <None Include="Assets\SASampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">

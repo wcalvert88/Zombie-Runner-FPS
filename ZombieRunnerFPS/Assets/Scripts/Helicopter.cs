@@ -6,9 +6,12 @@ public class Helicopter : MonoBehaviour
 {
     public AudioClip callSound;
     private bool called = false;
+    private AudioSource audioSource;
+
     // Start is called before the first frame update
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         
     }
 
@@ -19,7 +22,9 @@ public class Helicopter : MonoBehaviour
             // Call the helicopter
             called = true;
             // Play sound
+            audioSource.clip = callSound;
             print ("Helicopter called");
+            audioSource.Play();
         }
     }
 }
